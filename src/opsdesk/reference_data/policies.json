@@ -1,0 +1,53 @@
+[
+  {
+    "doc_id": "policy-wfh-2026",
+    "title": "Work From Home Policy",
+    "url": "https://intranet.example.local/policies/work-from-home",
+    "chunks": [
+      {
+        "chunk_id": "wfh-1",
+        "snippet": "Employees may work from home up to three days per week with manager approval and must be in the office on designated collaboration days.",
+        "keywords": ["work from home", "wfh", "remote", "hybrid", "manager approval"]
+      },
+      {
+        "chunk_id": "wfh-2",
+        "snippet": "Remote work requests longer than two weeks require an updated schedule in the HR portal and confirmation from the manager.",
+        "keywords": ["remote work", "schedule", "hr portal", "manager"]
+      }
+    ]
+  },
+  {
+    "doc_id": "policy-vpn-2026",
+    "title": "VPN and Access Policy",
+    "url": "https://intranet.example.local/policies/vpn-access",
+    "chunks": [
+      {
+        "chunk_id": "vpn-1",
+        "snippet": "VPN access is granted automatically for employees in engineering and support after multi-factor enrollment is verified.",
+        "keywords": ["vpn", "access", "multi-factor", "mfa"]
+      },
+      {
+        "chunk_id": "vpn-2",
+        "snippet": "If VPN access fails, confirm device compliance and request a password reset before escalating to IT.",
+        "keywords": ["vpn", "password reset", "device compliance", "it"]
+      }
+    ]
+  },
+  {
+    "doc_id": "policy-auth-2026",
+    "title": "Authentication and Password Resets",
+    "url": "https://intranet.example.local/policies/authentication",
+    "chunks": [
+      {
+        "chunk_id": "auth-1",
+        "snippet": "Password resets are self-service for verified users. The reset link expires after 30 minutes.",
+        "keywords": ["password reset", "self-service", "reset link"]
+      },
+      {
+        "chunk_id": "auth-2",
+        "snippet": "MFA re-enrollment requires identity verification and is handled through the IT portal.",
+        "keywords": ["mfa", "re-enrollment", "identity verification", "it portal"]
+      }
+    ]
+  }
+]
